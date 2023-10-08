@@ -8,7 +8,7 @@ The dataset used for this analysis is obtained from the official Indian governme
 Project Structure
 
     nris_India.ipynb: This Jupyter Notebook contains the Python code and the step-by-step analysis of the NRIs data.
-    Requirements.txt: Lists the Python libraries and their versions required to run the code.
+    
     nris_report: A brief report on the data analysis
     
 
